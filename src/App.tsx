@@ -77,7 +77,7 @@ function App() {
 
           <p className="custom-font pt-5">Harshit Sharma</p>
           <p className="font-dis">
-            Full Stack Developer • UI/UX Designer • C++
+            Full Stack Developer • UI/UX Designer
           </p>
 
           <p className="whytho pt-6 text-gray-600">
