@@ -11,6 +11,8 @@ import image_3 from './assets/image_3.png';
 
 import image_4 from './assets/image_4.png';
 import image_5 from './assets/image_5.png';
+import project_spot from '.assets/project_spot.jpg';
+
 import './App.css';
 
 function App() {
@@ -235,7 +237,7 @@ function App() {
           </div>
           <div className="px-10">
             <img
-              src={image_2}
+              src={project_spot}
               className="rounded grayscale hover:grayscale-0 pro-image"
               width="400"
             />
