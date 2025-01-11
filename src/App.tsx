@@ -1,5 +1,5 @@
 import GitHubCalendar from 'react-github-calendar';
-// import useSmoothScroll from './useSmoothScroll';
+//import useSmoothScroll from './useSmoothScroll';
 
 import avatar from './assets/avatar.jpg';
 import './App.css';
