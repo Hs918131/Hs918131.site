@@ -11,7 +11,8 @@ import image_3 from './assets/image_3.png';
 
 import image_4 from './assets/image_4.png';
 import image_5 from './assets/image_5.png';
-import project_spot from '.assets/project_spot.png';
+import project_spot from './assets/project_spot.png';
+
 
 import './App.css';
 
