@@ -462,14 +462,16 @@ function App() {
       <section id="miscellaneous">
         <h1 className="custom-font-2">Miscellaneous</h1>
         <br />
+
         <iframe
           src="https://open.spotify.com/embed/playlist/5p55iuQj5L2u5pANDtHJvb"
           width="300"
           height="380"
           frameBorder="0"
-          allowTransparency="true"
+          allowTransparency={true}
           allow="encrypted-media"
         />
+
 
 
       </section>
