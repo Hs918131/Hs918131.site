@@ -298,9 +298,7 @@ function App() {
                 </svg>
                 GitHub
               </a>
-            </div>
-
-            <div className="flexbox-grid-c flexbox-grid-c-cols-2">
+              <div className="flexbox-grid-c flexbox-grid-c-cols-2">
               <a
                 href="https://oncomri.streamlit.app/"
                 className="wahatag pt-4"
@@ -308,6 +306,9 @@ function App() {
                 Try Out!
               </a>
             </div>
+            </div>
+
+            
 
           </div>
           <div className="px-10">
