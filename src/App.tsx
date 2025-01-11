@@ -463,15 +463,14 @@ function App() {
         <h1 className="custom-font-2">Miscellaneous</h1>
         <br />
         <iframe
-          src="https://open.spotify.com/embed/playlist/5p55iuQj5L2u5pANDtHJvb?utm_source=generator&theme=0"
-          width="100%"
-          height="352"
+          src="https://open.spotify.com/embed/playlist/5p55iuQj5L2u5pANDtHJvb"
+          width="300"
+          height="380"
           frameBorder="0"
-          allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"
-          loading="lazy"
-        >
-          
-        </iframe>
+          allowtransparency="true"
+          allow="encrypted-media"
+        ></iframe>
+
       </section>
 
       <div className="pb-12 pt-12">
