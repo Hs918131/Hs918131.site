@@ -223,6 +223,14 @@ function App() {
                 GitHub
               </a>
             </div>
+            <div className="flexbox-grid-c flexbox-grid-c-cols-2">
+              <a
+                href="https://projectspot.vercel.app/"
+                className="wahatag pt-4"
+              >
+                Try Out!
+              </a>
+            </div>
           </div>
           <div className="px-10">
             <img
