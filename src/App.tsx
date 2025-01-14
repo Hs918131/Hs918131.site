@@ -135,7 +135,7 @@ function App() {
             <a href="https://terminal-folio.vercel.app/" className="wahatag">
               
               
-              Terminals
+              Terminal
             </a>
           </div>
 
